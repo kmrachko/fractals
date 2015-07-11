@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\институт 3 курс\fractals\fractals\bin\Debug\fractals.exe
+C:\Users\123\Desktop\институт 3 курс\fractals\fractals\bin\Debug\fractals.pdb
+C:\Users\123\Desktop\институт 3 курс\fractals\fractals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\123\Desktop\институт 3 курс\fractals\fractals\obj\x86\Debug\fractals.Properties.Resources.resources
+C:\Users\123\Desktop\институт 3 курс\fractals\fractals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\123\Desktop\институт 3 курс\fractals\fractals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\123\Desktop\институт 3 курс\fractals\fractals\obj\x86\Debug\fractals.exe
+C:\Users\123\Desktop\институт 3 курс\fractals\fractals\obj\x86\Debug\fractals.pdb
+C:\Users\123\Desktop\институт 3 курс\fractals\fractals\obj\x86\Debug\fractals.fractal.resources
+C:\Users\123\Desktop\институт 3 курс\fractals\fractals\obj\x86\Debug\fractals.MainFractal.resources
