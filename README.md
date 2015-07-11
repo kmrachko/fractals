@@ -1,0 +1,2 @@
+# fractals
+Useful application for creating custom fractals. To draw fractal, first you need to create fractal generator. For example, it can be an equilateral triangle, if you want to create a Koch curve. Then, you can already see complete fractal curve. You can dynamically change depth and scale of curve, setting it as you wish. App can be easily extended to create closed curves such as Koch snowflake, and contain classic generators, so you dont have to draw them.
